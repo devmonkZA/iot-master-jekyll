@@ -1,0 +1,12 @@
+# Site settings
+title: IOT Master
+email: eric@thedevmonk@gmail.com
+description: "IOT Master" 
+baseurl: ""
+url: "https://www.iot-master.org"
+
+twitter_username: DevmonkZA
+github_username: devmonkZA
+
+# Build settings
+markdown: kramdown
